@@ -1,5 +1,6 @@
 struct Student {
     
     char name[100]; 
+    char address[200];
     
 };
